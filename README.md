@@ -10,7 +10,7 @@ Aspiring Data Analyst transitioning into tech, with a foundation in Python, stat
 - 🎯 Goal: Land a Data Analyst role and keep growing from there
 
 #### 🛠 Skills
-`SQL` `Python` `MySQL` `Power BI (learning)` `Statistics` `Machine Learning`
+`SQL` `Python` `MySQL` `Power BI` `Statistics` `Machine Learning`
 
 #### 📌 Featured Project
 **[SQL Data Warehouse & Analytics](https://github.com/ibrahim-ahmed-29/sql-data-warehouse-analytics)**  
