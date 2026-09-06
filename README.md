@@ -16,7 +16,8 @@ Aspiring Data Analyst transitioning into tech, with a foundation in Python, stat
 **[SQL Data Warehouse & Analytics](https://github.com/ibrahim-ahmed-29/sql-data-warehouse-analytics)**  
 End-to-end data warehouse built in MySQL using Medallion Architecture (Bronze/Silver/Gold), with ETL pipelines integrating CRM & ERP data into a star schema — plus SQL-based analytical queries for business insights.
 
----
+**[powerbi-sales-analytics](https://github.com/ibrahim-ahmed-29/powerbi-sales-analytics)**  
+Power BI galaxy schema modeling sales, campaigns, and order lifecycle — dynamic RLS, accumulating snapshot, 5 DAX measures.
 📫 Open to connecting — feel free to check out my repos or reach out.
 <!--
 **ibrahim-ahmed-29/ibrahim-ahmed-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
